@@ -1,2 +1,2 @@
-# hello-word
+# hello-world
 第一个在GitHub上的仓库
